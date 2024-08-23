@@ -15,7 +15,7 @@ jobs:
       solution_name: ALMLab
       #Update your values here
       BUILD_ENVIRONMENT_URL: https://org9a90568c.crm7.dynamics.com/
-      PRODUCTION_ENVIRONMENT_URL: https://org688fcd0f.crm7.dynamics.com/
+      PRODUCTION_ENVIRONMENT_URL: https://org77d9328e.crm7.dynamics.com/
       CLIENT_ID: 461aaff2-7a35-4d55-987b-9590c1377870
       TENANT_ID: f45d97e7-6d68-497b-8ff3-dc640d3317a1    
     secrets:
